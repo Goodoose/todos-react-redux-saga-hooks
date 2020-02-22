@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todos-react-redux-saga-hooks/static/css/main.d1b05096.chunk.css",
+    "main.js": "/todos-react-redux-saga-hooks/static/js/main.47449d0f.chunk.js",
+    "main.js.map": "/todos-react-redux-saga-hooks/static/js/main.47449d0f.chunk.js.map",
+    "runtime-main.js": "/todos-react-redux-saga-hooks/static/js/runtime-main.429aa4f6.js",
+    "runtime-main.js.map": "/todos-react-redux-saga-hooks/static/js/runtime-main.429aa4f6.js.map",
+    "static/js/2.fadba055.chunk.js": "/todos-react-redux-saga-hooks/static/js/2.fadba055.chunk.js",
+    "static/js/2.fadba055.chunk.js.map": "/todos-react-redux-saga-hooks/static/js/2.fadba055.chunk.js.map",
+    "index.html": "/todos-react-redux-saga-hooks/index.html",
+    "precache-manifest.9014f9d6a81bce082a2070270a8c1191.js": "/todos-react-redux-saga-hooks/precache-manifest.9014f9d6a81bce082a2070270a8c1191.js",
+    "service-worker.js": "/todos-react-redux-saga-hooks/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/todos-react-redux-saga-hooks/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.fadba055.chunk.js.LICENSE.txt": "/todos-react-redux-saga-hooks/static/js/2.fadba055.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/todos-react-redux-saga-hooks/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.429aa4f6.js",
+    "static/js/2.fadba055.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.47449d0f.chunk.js"
+  ]
+}
