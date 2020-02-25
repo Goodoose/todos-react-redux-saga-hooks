@@ -1,0 +1,48 @@
+.container__item {
+  list-style: none;
+  margin: auto;
+}
+
+.container__content {
+  display: flex;
+  justify-content: baseline;
+}
+
+.container__content:hover > .container__image--hide {
+  visibility: visible;
+}
+
+.container__input--item {
+  width: 440px;
+  height: 25px;
+  margin-left: 10px;
+  margin-top: 7px;
+  font-family: sans-serif;
+  font-size: 3vh;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+}
+
+.container__image--checked {
+  width: 40px;
+}
+
+.container__image--hide {
+  visibility: hidden;
+}
+
+.container__image--close {
+  width: 30px;
+  margin-top: 5px;
+}
+
+.container__line {
+  height: 1px;
+  margin: auto;
+  margin-top: 8px;
+  margin-bottom: 10px;
+  border: none;
+  color: lightgray;
+  background-color: lightgray;
+}
